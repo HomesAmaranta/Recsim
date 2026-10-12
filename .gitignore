@@ -1,0 +1,5 @@
+data/
+.claude/
+__pycache__/
+out/
+*.pptx
